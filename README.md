@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+products+with+AI+as+the+crew%2C+not+the+feature.;Seven+products.+One+founder.+Many+agents.;Elixir+%C2%B7+Flutter+%C2%B7+Rust+%C2%B7+TypeScript;Founder+%40+NeuEra+Apps+%C2%B7+Los+Angeles" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=modirniya&color=7c3aed&style=for-the-badge&label=visitors" />
-</p>
-
 ---
 
 ### 🧠 About
@@ -61,10 +57,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=modirniya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=06b6d4" />
   <img height="165" src="https://streak-stats.demolab.com?user=modirniya&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=modirniya&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=a78bfa&line=06b6d4&point=ffffff&area=true" />
 </p>
 
 <p align="center">
