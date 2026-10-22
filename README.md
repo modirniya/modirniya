@@ -21,9 +21,9 @@
 | | Product | What it is | |
 |---|---|---|---|
 | 📞 | **[Kalum](https://www.kalum.app)** | Low-cost international calling to the Middle East | ![](https://img.shields.io/badge/live-Play%20%26%20iOS-22c55e?style=flat-square) |
-| 🎮 | **Play Lounge** | Real-time multiplayer board games in the browser (PWA) | ![](https://img.shields.io/badge/live-web-22c55e?style=flat-square) |
-| 🚗 | **Odo** | No-GPS trip & mileage log for gig drivers | ![](https://img.shields.io/badge/free-mobile-06b6d4?style=flat-square) |
-| 🔒 | **NetCloak** | Consumer VPN | ![](https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square) |
+| 🎮 | **[Play Lounge](https://playlounge.live)** | Real-time multiplayer board games in the browser (PWA) | ![](https://img.shields.io/badge/live-web-22c55e?style=flat-square) |
+| 🚗 | **[Odo](https://odometer.pro)** | No-GPS trip & mileage log for gig drivers | ![](https://img.shields.io/badge/free-mobile-06b6d4?style=flat-square) |
+| 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN | ![](https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square) |
 | 💅 | **[Salon Ledger](https://ledger.salon)** | The ticket pad for nail salons | ![](https://img.shields.io/badge/B2B-mobile-06b6d4?style=flat-square) |
 | 🎭 | **[RP Society](https://rpsociety.app)** | Voice-based social role-play (Mafia first) | ![](https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square) |
 | 🃏 | **[Git Game](https://gitgame.online)** · [repo](https://github.com/modirniya/gitgame) | An async multiplayer card game whose rules are Git | ![](https://img.shields.io/badge/AGPL--3.0-open%20source-a78bfa?style=flat-square) |
