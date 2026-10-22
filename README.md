@@ -21,7 +21,7 @@
 | | Product | What it is | Platforms |
 |---|---|---|---|
 | 📞 | **[Kalum](https://www.kalum.app)** | Low-cost international calling to the Middle East | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
-| 🎮 | **[Play Lounge](https://playlounge.live)** | Real-time multiplayer board games in the browser (PWA) | <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
+| 🎮 | **[Play Lounge](https://playlounge.live)** | Real-time multiplayer board games | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
 | 🚗 | **[Odo](https://odometer.pro)** | No-GPS trip & mileage log for gig drivers | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN | <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🎭 | **[RP Society](https://rpsociety.app)** | Voice-based social role-play (Mafia first) | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
