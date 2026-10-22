@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+products+with+AI+as+the+crew%2C+not+the+feature.;Eight+products.+One+founder.+Many+agents.;Elixir+%C2%B7+Flutter+%C2%B7+Rust+%C2%B7+TypeScript;Founder+%40+NeuEra+Apps+%C2%B7+Los+Angeles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+products+with+AI+as+the+crew%2C+not+the+feature.;Seven+products.+One+founder.+Many+agents.;Elixir+%C2%B7+Flutter+%C2%B7+Rust+%C2%B7+TypeScript;Founder+%40+NeuEra+Apps+%C2%B7+Los+Angeles" />
 </p>
 
 <p align="center">
-  <a href="https://ownerworkflows.com"><img src="https://img.shields.io/badge/OwnerWorkflows.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=modirniya&color=7c3aed&style=for-the-badge&label=visitors" />
 </p>
 
@@ -17,7 +16,6 @@
 
 - 🛠️ **Native AI Product Builder.** I design, ship and run products end to end, with AI agents doing the work a team would.
 - 🏢 Founder of **NeuEra Apps**, a one-person company with a portfolio of live apps, games and tools.
-- 🧭 I also help other owners set up the same way of working at **[OwnerWorkflows.com](https://ownerworkflows.com)**.
 - 📍 Los Angeles, CA
 
 ---
@@ -33,7 +31,6 @@
 | 💅 | **[Salon Ledger](https://ledger.salon)** | The ticket pad for nail salons | ![](https://img.shields.io/badge/B2B-mobile-06b6d4?style=flat-square) |
 | 🎭 | **[RP Society](https://rpsociety.app)** | Voice-based social role-play (Mafia first) | ![](https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square) |
 | 🃏 | **[Git Game](https://gitgame.online)** · [repo](https://github.com/modirniya/gitgame) | An async multiplayer card game whose rules are Git | ![](https://img.shields.io/badge/AGPL--3.0-open%20source-a78bfa?style=flat-square) |
-| 🧩 | **[OwnerWorkflows](https://ownerworkflows.com)** | Operating models for owners who build with AI | ![](https://img.shields.io/badge/new-services-7c3aed?style=flat-square) |
 
 <details>
 <summary>🔬 Side quests & research</summary>
