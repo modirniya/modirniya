@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+products+with+AI+as+the+crew%2C+not+the+feature.;Seven+products.+One+founder.+Many+agents.;Elixir+%C2%B7+Flutter+%C2%B7+Rust+%C2%B7+TypeScript;Founder+%40+NeuEra+Apps+%C2%B7+Los+Angeles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+products+with+AI+as+the+crew%2C+not+the+feature.;Six+products.+One+founder.+Many+agents.;Elixir+%C2%B7+Flutter+%C2%B7+Rust+%C2%B7+TypeScript;Founder+%40+NeuEra+Apps+%C2%B7+Los+Angeles" />
 </p>
 
 ---
@@ -18,15 +18,14 @@
 
 ### 🚀 What I'm building
 
-| | Product | What it is | |
+| | Product | What it is | Platforms |
 |---|---|---|---|
-| 📞 | **[Kalum](https://www.kalum.app)** | Low-cost international calling to the Middle East | ![](https://img.shields.io/badge/live-Play%20%26%20iOS-22c55e?style=flat-square) |
-| 🎮 | **[Play Lounge](https://playlounge.live)** | Real-time multiplayer board games in the browser (PWA) | ![](https://img.shields.io/badge/live-web-22c55e?style=flat-square) |
-| 🚗 | **[Odo](https://odometer.pro)** | No-GPS trip & mileage log for gig drivers | ![](https://img.shields.io/badge/free-mobile-06b6d4?style=flat-square) |
-| 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN | ![](https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square) |
-| 💅 | **[Salon Ledger](https://ledger.salon)** | The ticket pad for nail salons | ![](https://img.shields.io/badge/B2B-mobile-06b6d4?style=flat-square) |
-| 🎭 | **[RP Society](https://rpsociety.app)** | Voice-based social role-play (Mafia first) | ![](https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square) |
-| 🃏 | **[Git Game](https://gitgame.online)** · [repo](https://github.com/modirniya/gitgame) | An async multiplayer card game whose rules are Git | ![](https://img.shields.io/badge/AGPL--3.0-open%20source-a78bfa?style=flat-square) |
+| 📞 | **[Kalum](https://www.kalum.app)** | Low-cost international calling to the Middle East | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
+| 🎮 | **[Play Lounge](https://playlounge.live)** | Real-time multiplayer board games in the browser (PWA) | <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
+| 🚗 | **[Odo](https://odometer.pro)** | No-GPS trip & mileage log for gig drivers | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
+| 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN | <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
+| 🎭 | **[RP Society](https://rpsociety.app)** | Voice-based social role-play (Mafia first) | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
+| 🃏 | **[Git Game](https://gitgame.online)** · [repo](https://github.com/modirniya/gitgame) | An async multiplayer card game whose rules are Git | <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
 
 <details>
 <summary>🔬 Side quests & research</summary>
