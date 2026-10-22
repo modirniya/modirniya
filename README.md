@@ -68,10 +68,5 @@
 </p>
 
 <p align="center">
-  <!-- generated daily by a GitHub Action (Platane/snk) into the `output` branch -->
-  <img src="https://raw.githubusercontent.com/modirniya/modirniya/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:4c1d95,100:0f172a&height=120&section=footer" />
 </p>
