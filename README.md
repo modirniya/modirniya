@@ -45,7 +45,7 @@
 ### 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=elixir,phoenix,flutter,dart,rust,kotlin,go,ts,python,astro&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=elixir,flutter,dart,rust,kotlin,go,ts,py&perline=10" /><br/>
   <img src="https://skillicons.dev/icons?i=cloudflare,firebase,githubactions,androidstudio,apple,linux&perline=10" />
 </p>
 
