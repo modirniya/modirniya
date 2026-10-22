@@ -55,7 +55,7 @@
 ### 📈 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=modirniya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=06b6d4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=modirniya&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=06b6d4" />
   <img height="165" src="https://streak-stats.demolab.com?user=modirniya&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" />
 </p>
 
