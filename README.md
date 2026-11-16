@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=AI-native+product+builder+%C2%B7+Los+Angeles;Hands-on+with+Claude+Code+and+Cursor%2C+every+day;Specs+%C2%B7+prototypes+%C2%B7+tests+%C2%B7+releases;Five+products+shipped+to+thousands+of+users" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=AI-native+product+builder+%C2%B7+Los+Angeles;Hands-on+with+Claude+Code+and+Cursor%2C+every+day;Specs+%C2%B7+prototypes+%C2%B7+tests+%C2%B7+releases;Seven+products+shipped+to+thousands+of+users" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👋 About
 
-I'm an AI-native product builder in Los Angeles. I use AI development tools every day to take products from idea to the app store and keep improving them in production. So far that's five shipped products across mobile, web, backend, payments, telephony and networking, used by thousands of people.
+I'm an AI-native product builder in Los Angeles. I use AI development tools every day to take products from idea to the app store and keep improving them in production. So far that's seven shipped products across mobile, web, payments, telephony, networking and real-time multiplayer, used by thousands of people.
 
 ### 🤝 How I work with AI tools
 
@@ -31,8 +31,10 @@ I'm an AI-native product builder in Los Angeles. I use AI development tools ever
 |---|---|---|---|
 | 📞 | **[Kalum](https://www.kalum.app)** | Call landlines and mobiles abroad over the internet | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🎮 | **[Play Lounge](https://playlounge.live)** | Cross-platform multiplayer board games, with a real-time backend serving hundreds of games a day | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
+| 🎭 | **[RPS Mafia](https://rpsociety.app)** | Free online Mafia in the browser, with voice chat built in | <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
 | 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN | <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🚗 | **[Odometer](https://odometer.pro)** | Mileage tracker for tax and reimbursement logging | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
+| 💅 | **[Salon Ledger](https://modirniya.github.io/ledger.salon/)** | Replaces the paper service-ticket pad in nail salons: technicians log tickets, owners see the totals | <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🃏 | **[Git Game](https://gitgame.online)** · [repo](https://github.com/modirniya/gitgame) | Open-source game built on Git's branching model (AGPL-3.0) | <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
 
 The portfolio grew through organic ASO and SEO. One data-driven metadata update took Kalum from 0 to 150+ ranked keywords in 72 hours.
