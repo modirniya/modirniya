@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:p.modirniya@gmail.com"><img src="https://img.shields.io/badge/p.modirniya@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://modirniya.dev/contact/"><img src="https://img.shields.io/badge/Contact-modirniya.dev%2Fcontact-7C3AED?style=for-the-badge" alt="Contact: modirniya.dev/contact" /></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@ I'm an AI-native product builder in Los Angeles. I use AI development tools ever
 |---|---|---|---|
 | 📞 | **[Kalum](https://www.kalum.app)** | Call landlines and mobiles abroad over the internet | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🎮 | **[Play Lounge](https://playlounge.live)** | Cross-platform multiplayer board games, with a real-time backend serving hundreds of games a day | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
-| 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN with a Rust backend | <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
+| 🔒 | **[NetCloak](https://netcloak.app)** | Consumer VPN | <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🚗 | **[Odometer](https://odometer.pro)** | Mileage tracker for tax and reimbursement logging | <img src="assets/ios.svg" height="20" alt="iOS" title="iOS" /> <img src="assets/android.svg" height="20" alt="Android" title="Android" /> |
 | 🃏 | **[Git Game](https://gitgame.online)** · [repo](https://github.com/modirniya/gitgame) | Open-source game built on Git's branching model (AGPL-3.0) | <img src="assets/web.svg" height="20" alt="Web" title="Web" /> |
 
